@@ -1,2 +1,3 @@
-# Math141
-Math 141 Linear Analysis 
+# Math141 Linear Analysis
+
+All homeworks and supplementary readings
